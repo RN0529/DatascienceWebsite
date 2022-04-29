@@ -31,3 +31,20 @@ p{
     font-size: 20px;
     letter-spacing: 2px;
 }
+img{
+    max-width: 70%;
+}
+.Slide{display:none;}
+#StartSlide{
+    display: block;
+}
+button{
+    height: 50px;
+    width: 50px;
+    margin: 5%;
+}
+.imgWrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

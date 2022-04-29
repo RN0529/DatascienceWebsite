@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>Suicide Rates In The United States</title>
+    <script src="click.js"></script>
 </head>
 <div id="topbar">
     
@@ -39,25 +40,47 @@
             </p>
         </div>
         <h2>Visualizations</h2>
+        
+        
         <div>
-            <img src="SuicideBothSexes.PNG" alt="">
-            <p>The image above shows the collective suicide rate of both men and females between the years 2000 and 2019.
-
-                As we can see the data above shows that there has been an increasing amount of suicides throughout the years. 
-                <br>
-                <br>
-                Although the data shows this, as stated prviously, this data may be inaccurate as there are many issues concerning data relating to the suicides throughout the united states.</p>
+            <div class="Slide" id="StartSlide">
+                <div class="imgWrap">
+                    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                    <img src="SuicideBothSexes.PNG" alt="">
+                    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>    
+                </div>
+                <p>The image above shows the collective suicide rate of both men and females between the years 2000 and 2019.
+    
+                    As we can see the data above shows that there has been an increasing amount of suicides throughout the years. 
+                    <br>
+                    <br>
+                    Although the data shows this, as stated prviously, this data may be inaccurate as there are many issues concerning data relating to the suicides throughout the united states.</p>
+            
+            </div>
+            <div class="Slide">
+                <div class="imgWrap">
+                    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                    <img src="FemaletoMaleSuicideRate.PNG" alt="">
+                    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>  
+                </div>
+                <p>Now I will split the data into the two sexes, Male and Female. The graph displays the suicide rate for each gender per 100k people. From this, we can see that the female suicide rate is drastically lower than the male suicide rate.  The males range from ~15 to ~22.5, while the females range from ~5 to ~10. From this, we can see that the male suicide rate is generally two times higher than the female suicide rate. </p>
+            
+            </div>
+            <div class="Slide">
+                <div class="imgWrap">
+                    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                    <img src="SuicideRatebyAge.PNG" alt="">
+                    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+                    
+                </div>
+                <p>In this graph, I split the data by age groups. Then made a comparison using a bar graph. From this, we can see that From this, we can see that the lowest suicide rates come from people ages 15-24 and that the highest suicide rates come from people ages 25-34.</p>
+            </div>
+            
+            
         </div>
-            <img src="FemaletoMaleSuicideRate.PNG" alt="">
-        <div>
+        
 
-        </div>
     </div>
 
-    
-
-
-    
-    
 </body>
 </html>
