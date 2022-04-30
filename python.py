@@ -1,3 +1,11 @@
+"""
+Name:       Richard Ngo
+Email:      thomas.hunter1870@hunter.cuny.edu
+Resources:  
+Title:      Suicide In the United States
+URL:        https://rn0529.github.io/DatascienceWebsite/
+"""
+
 #the numbers for 2019 by age and over 19 years are per 100k people
 import plotly.express as px
 import json
@@ -68,7 +76,7 @@ suicidePlot = px.choropleth_mapbox(
     locations= 'Borough', 
     featureidkey="properties.boro_name", 
     color= 'Sum',
-    color_continuous_scale='GnBu',
+    color_continuous_scale='Oranges',
     range_color=(0, .30),
     mapbox_style="carto-positron",
     zoom=9.7, center = {"lat": 40.7128, "lon": -74.0060},
