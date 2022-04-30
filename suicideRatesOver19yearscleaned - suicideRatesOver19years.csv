@@ -1,0 +1,61 @@
+ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,Sex,FactValueNumeric,FactValueNumericLow,FactValueNumericHigh,Language,DateModified
+Americas,Country,USA,United States of America,Year,2019,Both sexes,14.51,13.56,19.35,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2019,Male,22.4,20.92,29.96,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2019,Female,6.77,6.34,8.79,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2018,Both sexes,14.09,13.23,18.84,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2018,Male,21.79,20.48,29.2,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2018,Female,6.55,6.12,8.55,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2017,Both sexes,14.41,13.62,19.22,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2017,Male,22.52,21.32,28.99,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2017,Female,6.46,6.07,9.56,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2016,Both sexes,13.65,13.02,17.8,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2016,Male,21.2,20.27,29.05,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2016,Female,6.27,5.92,6.56,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2015,Both sexes,12.86,12.33,16.05,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2015,Male,19.86,19.06,25.87,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2015,Female,6.05,5.77,6.31,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2014,Both sexes,12.4,11.88,16.13,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2014,Male,19.24,18.45,23.73,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2014,Female,5.76,5.51,8.74,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2013,Both sexes,12.04,11.56,17.97,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2013,Male,18.77,18.02,26.46,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2013,Female,5.54,5.3,9.65,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2012,Both sexes,12.06,11.62,15.52,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2012,Male,18.91,18.25,25.48,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2012,Female,5.44,5.21,5.66,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2011,Both sexes,12.01,11.58,16.51,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2011,Male,18.87,18.24,24.87,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2011,Female,5.37,5.14,8.34,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2010,Both sexes,11.72,11.31,15.78,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2010,Male,18.52,17.9,26.27,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2010,Female,5.18,4.96,5.39,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2009,Both sexes,11.42,11.04,16.47,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2009,Male,18.07,17.5,24.04,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2009,Female,5.03,4.82,9.14,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2008,Both sexes,11.4,11.02,16.81,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2008,Male,18.09,17.53,24.74,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2008,Female,4.96,4.76,9.11,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2007,Both sexes,11.19,10.82,15.36,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2007,Male,17.75,17.19,23.05,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2007,Female,4.89,4.69,7.89,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2006,Both sexes,10.96,10.58,14.73,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2006,Male,17.47,16.89,22,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2006,Female,4.72,4.52,7.72,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2005,Both sexes,10.69,10.32,13.05,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2005,Male,17.11,16.54,21.57,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2005,Female,4.57,4.38,4.75,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2004,Both sexes,10.79,10.43,13.12,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2004,Male,17.16,16.61,21.55,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2004,Female,4.71,4.51,4.89,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2003,Both sexes,10.57,10.21,14.29,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2003,Male,17.1,16.55,24.23,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2003,Female,4.35,4.16,4.52,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2002,Both sexes,10.63,10.27,14.7,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2002,Male,17.28,16.73,22.44,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2002,Female,4.31,4.12,7.25,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2001,Both sexes,10.33,9.98,14.28,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2001,Male,16.93,16.39,24.51,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2001,Female,4.07,3.89,4.23,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2000,Both sexes,10.02,9.65,15.03,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2000,Male,16.44,15.88,23.5,EN,2021-02-09T05:00:00.000Z
+Americas,Country,USA,United States of America,Year,2000,Female,3.96,3.77,6.85,EN,2021-02-09T05:00:00.000Z
